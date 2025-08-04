@@ -16,6 +16,9 @@ class Contact:
             )
 
 with open('contacts.json') as jsonfile:
-      data=json.load(jsonfile)
-      
-      pass
+      data_list=json.load(jsonfile)
+contacts=[]
+for data in data_list:
+      contacts.append(Contact,from_dict(data))
+for contact in contacts:
+      print(contact.to_dict())

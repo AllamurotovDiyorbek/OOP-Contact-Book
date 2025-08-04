@@ -21,7 +21,7 @@ class Contact_book:
             pass
       def search_contact(name):
             pass
-      def save_to_file():     
+      def save_to_file():
             pass
       def load_from_file():
             pass
