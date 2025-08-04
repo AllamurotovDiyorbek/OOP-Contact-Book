@@ -34,7 +34,7 @@ Sizga oddiy kontaktlar kitobini yaratish topshiriladi. Foydalanuvchi yangi konta
   * `list_contacts()` – barcha kontaktlarni chiqarish
   * `search_contact(name)` – ism bo‘yicha qidirish
   * `save_to_file()` – kontaktlarni JSON faylga yozish
-  * `load_from_file()` – fayldan kontaktlarni o‘qib olish
+  * `load_from_file()` – fayldan kontaktla2rni o‘qib olish
 
 ---
 
